@@ -1,0 +1,19 @@
+{
+  "name": "Tabby: AI-powered text completion",
+  "version": "1.0.0",
+  "description": "Tabby is a Chrome extension that uses AI to help you complete your text. When you type in a tab, Tabby will suggest possible completions based on the context of your writing. You can then use Tabby to quickly and easily generate the text you need.",
+  "manifest_version": 3,
+  "author": "chan.mo@outlook.com",
+  "content_scripts": [
+    {
+    "matches": ["http://*/*", "https://*/*"],
+    "js": ["script.js"],
+    "css": ["style.css"]
+  }
+  ],
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+
