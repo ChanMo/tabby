@@ -1,0 +1,23 @@
+{
+    "name": {
+        "message": "Tabby: AI-powered text completion"
+    },
+    "description": {
+        "message": "Tabby uses AI to help you complete text input quickly and efficiently."
+    },
+    "option": {
+        "message": "Options"
+    },
+    "api": {
+        "message": "OpenAI API"
+    },
+    "api_help": {
+        "message": "You can use any other API that is compatible with the OpenAI API style."
+    },
+    "key": {
+        "message": "Key"
+    },
+    "save": {
+        "message": "Save"
+    }
+}

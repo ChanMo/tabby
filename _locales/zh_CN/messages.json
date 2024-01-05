@@ -1,0 +1,23 @@
+{
+    "name": {
+        "message": "Tabby：基于人工智能的文本补全"
+    },
+    "description": {
+        "message": "Tabby 利用人工智能技术为您提供文本补全建议，让您快速高效地完成文本输入。"
+    },
+    "option": {
+        "message": "设置"
+    },
+    "api": {
+        "message": "OpenAI 接口地址"
+    },
+    "api_help": {
+        "message": "您可以使用任何其他符合 OpenAI API 风格的API"
+    },
+    "key": {
+        "message": "密钥"
+    },
+    "save": {
+        "message": "保存"
+    }
+}
