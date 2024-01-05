@@ -1,6 +1,6 @@
 {
   "name": "__MSG_name__",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "__MSG_description__",
   "manifest_version": 3,
   "author": "chan.mo@outlook.com",
@@ -13,7 +13,7 @@
     "css": ["style.css"]
   }
   ],
-  "permissions": ["tabs", "storage"],
+  "permissions": ["activeTab", "storage"],
   "icons": {
     "16": "logo_16.png",
     "48": "logo_48.png",
